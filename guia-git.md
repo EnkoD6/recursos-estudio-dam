@@ -37,6 +37,8 @@
 - git config --global user.email "you@example.com"
 - git config --global user.name "Your Name"
 
+> Si todo ha salido bien no saldrá ningun mensaje, solo saltara otra linea en la consola.
+
 > Si eres nuevo en este mundo de la programación y no te sientes comodo con el uso de comandos puedes empezar con la interfaz y con el tiempo, cuando ganes comfianza empezar a usar comandos.
 
 ### Creación del repositorio mediante GUI
@@ -44,7 +46,7 @@
 
 ![img-interfaz-vsc](https://imageshack.com/i/pn48dljZp)
 
-> Desde aquí, simplemente pulsando en Iniciar repositorio podemos crear el primer repositorio de git y ya estaría, ya hemos creado nuestro primer repositorio git, el sistema automaticamente detectara todos los archivos que estan incluidos en la carpeta origen del repositorio y te los mostrara en el apartado cambios, si son nuevos, vendran con una U verde a la derecha. 
+> Desde aquí, simplemente pulsando en Iniciar repositorio podemos crear el primer repositorio de git y ya estaría, ya hemos creado nuestro primer repositorio git, el sistema automaticamente detectara todos los archivos que estan incluidos en la carpeta origen del repositorio y te los mostrara en el apartado cambios, si son nuevos, vendran con una U verde a la derecha, si ya existen y van a ser actualizados con una M naranja. 
 
 >Cuando tengamos todos los archivos que queremos subir en ese apartado cambios debemos escribir un mensaje que sera un pequeño resumen de lo que vamos a incluir en el commit que realizaremos y podemos darle a confirmación.
 
