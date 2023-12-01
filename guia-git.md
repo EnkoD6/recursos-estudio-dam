@@ -32,6 +32,11 @@
 
 > Una vez tomada la decisión es hora de empezar a usar Git y tomar esos primeros pasos es super facil. Lo primero que necesitas es crear una carpeta en tu sistema. Después debes decidir si hacer todo mediante la consola de comandos o la interfaz grafica que incluyen la mayoría de IDEs o editores de texto enfocados al desarrollo como es Visual Studio Code (herramienta que por cierto es la que he usado para crear esta guía).
 
+> Antes de continuar hay que hacer una pequeña configuración desde la linea de comandos. Abre tu consola y escribe los siguientes comandos cambiando los datos entre comillas dobles por tu mail y usuario que utilices en la plataforma en la quieras guardar tus repositorios (si vas a usar más de una plataforma no incluyas --global):
+
+- git config --global user.email "you@example.com"
+- git config --global user.name "Your Name"
+
 > Si eres nuevo en este mundo de la programación y no te sientes comodo con el uso de comandos puedes empezar con la interfaz y con el tiempo, cuando ganes comfianza empezar a usar comandos.
 
 ### Creación del repositorio mediante GUI
