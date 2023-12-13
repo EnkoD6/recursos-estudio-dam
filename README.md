@@ -16,7 +16,7 @@ Para contribuir a este pequeño repo es muy facil y he incluido una pequeña gu�
 
 ## Indice de recursos
 
-> Para saber como empezar a usar Git echa un vistazo a [esta guía](.guia-git.md).
+> Para saber como empezar a usar Git echa un vistazo a [esta guía](guia-git.md).
 
 ### Temas Generales
 [Coding-Interview-University](https://github.com/jwasham/coding-interview-university)
